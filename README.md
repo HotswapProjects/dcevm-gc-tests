@@ -1,6 +1,6 @@
 DCEVM Tests
 ===========
-Tests to check DCEVM GC build - class redifinitions and garbage collectors.
+Tests to check DCEVM GCs - class redifinitions and garbage collectors.
 
 Set JAVA_HOME to DCEVM build and run tests `mvn test`.
 
